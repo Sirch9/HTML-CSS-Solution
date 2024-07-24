@@ -1,2 +1,2 @@
 # First frontend challenge 
-https://sirch9.github.io/HTML-CSS-Solution/
+![Screenshot (6)](https://github.com/user-attachments/assets/735295a4-9cc8-4fde-a00d-2bd552df9c29)
