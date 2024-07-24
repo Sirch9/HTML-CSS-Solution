@@ -1,3 +1,2 @@
-## Challenges faced
-**I struggled with git commands.**
-**Learned about different ways to center a div**
+# First frontend challenge 
+https://sirch9.github.io/HTML-CSS-Solution/
